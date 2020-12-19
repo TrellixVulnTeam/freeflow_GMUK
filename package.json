@@ -1,0 +1,14 @@
+{
+  "name": "freeflow",
+  "version": "1.0.0",
+  "description": "Freeflow Project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Adarsh , Shubhodeep",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
